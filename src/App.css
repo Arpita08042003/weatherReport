@@ -1,0 +1,33 @@
+.bg-text {
+  border-radius: 20px;
+  background-color: rgb(13, 13, 13); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.773); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.searchBar{
+  height: 25px;
+  width: 45%;
+  border-radius: 10px;
+  border: none;
+  padding: 0.5% 2%;
+}
+
+.searchBttn{
+  padding: 7px;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  width: 10%;
+}
+
