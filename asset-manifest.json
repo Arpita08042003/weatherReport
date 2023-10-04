@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Arpita08042003/weatherReport.git/static/css/main.d883b88d.css",
-    "main.js": "/Arpita08042003/weatherReport.git/static/js/main.68aec46a.js",
-    "static/media/background.jpg": "/Arpita08042003/weatherReport.git/static/media/background.085e2e54d35da8ea75d4.jpg",
-    "index.html": "/Arpita08042003/weatherReport.git/index.html",
-    "main.d883b88d.css.map": "/Arpita08042003/weatherReport.git/static/css/main.d883b88d.css.map",
-    "main.68aec46a.js.map": "/Arpita08042003/weatherReport.git/static/js/main.68aec46a.js.map"
+    "main.css": "/Arpita08042003/weatherReport/static/css/main.3893baf2.css",
+    "main.js": "/Arpita08042003/weatherReport/static/js/main.68aec46a.js",
+    "static/media/background.jpg": "/Arpita08042003/weatherReport/static/media/background.085e2e54d35da8ea75d4.jpg",
+    "index.html": "/Arpita08042003/weatherReport/index.html",
+    "main.3893baf2.css.map": "/Arpita08042003/weatherReport/static/css/main.3893baf2.css.map",
+    "main.68aec46a.js.map": "/Arpita08042003/weatherReport/static/js/main.68aec46a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d883b88d.css",
+    "static/css/main.3893baf2.css",
     "static/js/main.68aec46a.js"
   ]
 }
